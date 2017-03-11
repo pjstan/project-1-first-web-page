@@ -1,0 +1,22 @@
+body{
+  background-color: #ebebeb;
+  font-family: 'Droid Serif', serif;
+  font-family: 'Droid Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'Lora', serif;
+}
+
+h1 {
+  font-family: 'Droid Serif';
+}
+
+h2 {
+  font-family: 'Droid Sans', sans-serif;
+}
+.head-shot {
+  width: 90px;
+  margin-top: 65px;
+}
+.head-shot-container {
+  text-align: center;
+}
