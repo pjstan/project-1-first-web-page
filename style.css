@@ -7,16 +7,24 @@ body{
 }
 
 h1 {
-  font-family: 'Droid Serif';
+  font-family: 'Lora';
+  background-color: #ebebeb;
+  color: #00FF7F;
 }
 
 h2 {
   font-family: 'Droid Sans', sans-serif;
+  background-color: #ebebeb;
 }
 .head-shot {
-  width: 90px;
+  width: 200px;
   margin-top: 65px;
 }
 .head-shot-container {
   text-align: center;
+}
+.footer {
+  text-align-center
+  background-color: #FAFAD2;
+  background-position: center;
 }
