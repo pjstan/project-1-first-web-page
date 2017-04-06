@@ -1,3 +1,9 @@
+/* ------ structure  ------ */
+/* ------ logo       ------ */
+/* ------ navigation ------ */
+/* ------ typography ------ */
+
+/* ------- structure ------ */
 body{
   background-color: #ebebeb;
   font-family: 'Droid Serif', serif;
@@ -7,9 +13,9 @@ body{
 }
 
 h1 {
-  font-family: 'Lora';
+  font-family: 'Droid Sans';
   background-color: #ebebeb;
-  color: #00FF7F;
+  color: blue;
 }
 
 h2 {
@@ -23,7 +29,11 @@ h2 {
 .head-shot-container {
   text-align:center;
 }
-.footer {
+footer {
   text-align:center;
   background-color: #FAFAD2;
+}
+.dunder-mifflin-logo.jpg {
+  text-align: left;
+  width: 200px
 }
