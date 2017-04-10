@@ -4,7 +4,15 @@
 /* ------ typography ------ */
 
 /* ------- structure ------ */
-body{
+
+header {
+  text-align: center;
+  height: 100px;
+  background-color: #ebebeb;
+  margin: 0px;
+}
+
+body {
   background-color: #ebebeb;
   font-family: 'Droid Serif', serif;
   font-family: 'Droid Sans', sans-serif;
@@ -12,14 +20,20 @@ body{
   font-family: 'Lora', serif;
 }
 
+.wrapper{
+  width: 600px;
+  margin: auto;
+}
+
 h1 {
+  margin: 0;
   font-family: 'Droid Sans';
   background-color: #ebebeb;
   color: blue;
 }
 
 h2 {
-  font-family: 'Droid Sans', sans-serif;
+  font-family: 'Droid Sans';
   background-color: #ebebeb;
 }
 .head-shot {
@@ -29,11 +43,15 @@ h2 {
 .head-shot-container {
   text-align:center;
 }
-footer {
-  text-align:center;
-  background-color: #FAFAD2;
+
+.logo {
+  width: 200px;
+  margin-top: 65px;
+
 }
-.dunder-mifflin-logo.jpg {
-  text-align: left;
-  width: 200px
+
+footer {
+  text-align: center;
+  background-color: #FAFAD2;
+
 }
