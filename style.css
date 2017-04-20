@@ -7,9 +7,25 @@
 
 header {
   text-align: center;
-  height: 100px;
+  align-content: center;
+  height: 150px;
   background-color: #ebebeb;
   margin: 0px;
+}
+
+nav {
+  text-align: center;
+  font-style: italic;
+  margin: auto;
+}
+
+ul {
+  text-align: center;
+}
+
+.navlist {
+  width: 20%;
+  display: inline-block;
 }
 
 body {
@@ -39,7 +55,7 @@ h2 {
 
 .head-shot {
   width: 200px;
-  margin-top: 65px;
+  margin-top: 55px;
   margin: auto;
 }
 .head-shot-container {
